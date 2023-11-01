@@ -7,7 +7,8 @@ import java.util.Scanner;
  */
 /**
  *
- * @author alumnot
+ * @author Tego Calderon
+ * 
  */
 public class Fibonacci_IterativoYRecursivo {
 
